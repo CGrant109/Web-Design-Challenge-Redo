@@ -17,11 +17,11 @@ Data is more powerful when we share it with others! Let's use what we've learned
 
 2. Clone the new repository to your computer.
 
-3. Inside your local Git repository, add your HTML files along with three folders; `assets`, `Resources` and `visualizations`. 
+3. Inside your local Git repository, add your HTML files along with two folders; `Resources` and `WebVisualizations`. 
 
   * Include an `index.html` file in the main folder, which you will edit later and should be the landing page that a user first encounters when viewing your submission.
 
-  * Inside the `assets` folder, create two more folders: `css` and `images`, which you will use to store your CSS and image assets, respectively.
+  * Inside the `Resources` folder, create one more folder: `images`, which you will use to store and reference your images.
 
   * The `Resources` folder should contain the CSV file with the data you are using for this website. The `visualizations` folder will contain the HTML pages that display your visualizations.
 
