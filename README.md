@@ -28,6 +28,7 @@ Data is more powerful when we share it with others! Let's use what we've learned
 4. Push the changes from Steps 1 through 3 to GitHub.
 
 5. Deploy to GitHub Pages. 
+https://cgrant109.github.io/Web-Design-Challenge-Redo/
 
 ## Instructions 
 
