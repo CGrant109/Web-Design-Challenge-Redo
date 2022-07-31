@@ -1,7 +1,7 @@
 ## Web-Design-Challenge: CSS and HTML
 ## Finding temperatures, humidity, cloudiness, and wind speed among cities.
 
-[![beach-cover.jpg](https://i.postimg.cc/dVNKSbJq/beach-cover.jpg)](https://postimg.cc/QF7PFnBP)
+[![lightningfarm.jpg](https://i.postimg.cc/bYQwMcRR/lightningfarm.jpg)](https://postimg.cc/c6LWgz2K)
 
 # Unit 11 Homework: Web Visualization Dashboard 
 
